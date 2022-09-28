@@ -4,6 +4,6 @@ matplotlib
 pillow
 h5py
 pydot
-keras==2.8
-tensorflow-gpu
+keras==2.3
+tensorflow-gpu==2.0
 opencv-python
